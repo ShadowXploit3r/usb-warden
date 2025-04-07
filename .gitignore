@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+
+# Output and temporary files
+*.json
+*.txt
+
+# macOS system file
+.DS_Store
